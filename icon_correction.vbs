@@ -1,2 +1,3 @@
-Set WshShell = CreateObject("WScript.Shell")
-WshShell.Run "D:\icon_correction\icon_correction.ps1", 0, False
+Set objShell = CreateObject("WScript.Shell")
+powershellCommand = "powershell -ExecutionPolicy Bypass -File ""D:\icon_correction\icon_correction.ps1"""
+objShell.Run powershellCommand, 0, False
