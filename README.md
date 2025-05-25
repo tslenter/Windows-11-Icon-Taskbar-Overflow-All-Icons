@@ -10,6 +10,8 @@ The vbs script has it location default to D:\icon_correction\icon_correction.ps1
 # Automate in Windows 11 
 ```
 To automate this make a schedule job and run this every 5 minutes.
+
+To schedule a task in Windows 11, you'll use the Task Scheduler. Open Task Scheduler (search for it in the Start menu), create a new task (either a basic task or a full task), and configure the trigger (when the task runs), action (what the task does), and settings (additional options). 
 ```
 
 ## icon_correction.ps1 contains:
