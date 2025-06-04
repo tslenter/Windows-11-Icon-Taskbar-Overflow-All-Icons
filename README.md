@@ -1,7 +1,7 @@
 
 # Windows 11 Icon Taskbar Overflow Display All Icons
 
-Overflow Enabled (if you like this, then this is not the script whta you want)
+Overflow Enabled (if you like this, then this is not the script what you want)
 ![Overflow Enabled](https://raw.githubusercontent.com/tslenter/Windows-11-Icon-Taskbar-Overflow-Display-All-Icons/main/Overflow_Enabled.png)
 
 Overflow Disabled (if you like this, then continue and download the script)
