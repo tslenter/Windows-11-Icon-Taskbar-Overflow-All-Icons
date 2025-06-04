@@ -1,5 +1,8 @@
 
 # Windows 11 Icon Taskbar Overflow Display All Icons
+
+![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg ](https://github.com/tslenter/Windows-11-Icon-Taskbar-Overflow-Display-All-Icons/blob/main/OverFlow_Disabled.png)"Desired functionality")
+
 Fix for the overflow Windows 11 Taskbar Icons (Displays all icons)
 ```
 icon_correction.ps1 is the script that checks the values and correct sets the correct flag for the icon.
