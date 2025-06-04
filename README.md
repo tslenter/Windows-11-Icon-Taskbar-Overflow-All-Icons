@@ -1,9 +1,11 @@
 
 # Windows 11 Icon Taskbar Overflow Display All Icons
 
-![Overflow Disabled](https://raw.githubusercontent.com/tslenter/Windows-11-Icon-Taskbar-Overflow-Display-All-Icons/main/OverFlow_Disabled.png)
-
+Overflow Enabled (if you like this, then this is not the script whta you want)
 ![Overflow Enabled](https://raw.githubusercontent.com/tslenter/Windows-11-Icon-Taskbar-Overflow-Display-All-Icons/main/Overflow_Enabled.png)
+
+Overflow Disabled (if you like this, then continue and download the script)
+![Overflow Disabled](https://raw.githubusercontent.com/tslenter/Windows-11-Icon-Taskbar-Overflow-Display-All-Icons/main/OverFlow_Disabled.png)
 
 Fix for the overflow Windows 11 Taskbar Icons (Displays all icons)
 ```
